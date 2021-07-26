@@ -6,7 +6,7 @@
 
 <div align="center">
  <strong>
-  Une plateforme de revenu universel décentralisée basé sur des monnaies individuelles.
+  Une plateforme de revenu universel décentralisée baséé sur des monnaies individuelles.
  </strong>
 </div>
 
@@ -51,7 +51,7 @@ Nous proposons un nouveau système monétaire appelé Circles qui est basé sur 
 
 ## Introduction
 
-Le revenu de base universel est l'un des mouvements politiques de l'ère moderne qui suscite le plus d'intérêt dans toutes les cultures. Il a attiré le soutien de penseurs de tous horizons, dont Thomas Paine, Martin Luther King Jr, Stephen Hawking, Guy Standing, Milton Friedman et David Graeber. Il est considéré comme un projet utopique qui pourrait enfin libérer le potentiel créatif de tous les individus, l'aboutissement d'idéaux humanistes vieux de plusieurs siècles.
+Le Revenu Universel de Base est l'un des mouvements politiques de l'ère moderne qui suscite le plus d'intérêt dans toutes les cultures. Il a attiré le soutien de penseurs de tous horizons, dont Thomas Paine, Martin Luther King Jr, Stephen Hawking, Guy Standing, Milton Friedman et David Graeber. Il est considéré comme un projet utopique qui pourrait enfin libérer le potentiel créatif de tous les individus, l'aboutissement d'idéaux humanistes vieux de plusieurs siècles.
 
 Le sujet de RUB a explosé en popularité ces dernières années, alors que les inégalités de richesse se creusent et que les salaires corrigés de l'inflation chutent partout dans le monde. Jusqu'à présent, les discussions ont été principalement vues à travers le prisme de la politique publique et de l'action bureaucratique. Le soutien du public à l'idée de RUB n'a jamais été aussi élevé, mais les plans de mise en œuvre progressent lentement et sans coopération à l'échelle internationale. Il semble que les systèmes de RUB aient reçu l'étiquette "trop gros pour être mis en œuvre" aux plus hauts niveaux de l'État, à l'instar de l'action sur le changement climatique, ce qui rend le développement et le déploiement peu probable dans un avenir proche.
 
@@ -207,7 +207,7 @@ FakeAlice donne 10 AliceCoin à Bob.
 
 Cet exemple montre que Bob ne peut recevoir que de l'argent auquel il fait confiance, et qu'Alice ne peut dépenser que de l'argent auquel d'autres utilisateurs font confiance à leur tour. Même si Alice crée 100 faux comptes et qu'ils se font tous confiance, elle ne pourra jamais dépenser plus que le montant d'AliceCoins dont elle dispose, puisque c'est le seul compte auquel les autres utilisateurs feront confiance. C'est pourquoi il est crucial que les utilisateurs prennent au sérieux les relations de confiance directes entre pairs.
 
-## Devise complémentaire
+## Une devise complémentaire
 
 Circles n'a pas vocation à devenir la monnaie dominante dans le monde, qu'elle soit cryptographique ou autre. Il s'agit plutôt d'une monnaie complémentaire, travaillant en harmonie avec d'autres réserves de valeur et moyens d'échange, elle-même intégrée dans une diversité de monnaies. À l'avenir, les Circles pourraient même servir de devise forte et de fondation pour une devise de groupe plus flexible. Il s'agit d'une devise forte idéale car l'offre de monnaies individuelles spécifiques est parfaitement prévisible et le système global est hautement résilient car il ne dépend pas d'un fournisseur d'identité centralisé. Pour déterminer l'appartenance à un groupe, cette hypothétique devise de groupe pourrait fonctionner selon une logique commerciale arbitraire, par exemple en faisant partie d'un réseau de troc commercial, ou démocratiquement via des assemblées géographiquement limitées. Le groupe pourrait ensuite convertir de manière unidirectionnelle les monnaies personnelles de ses membres en une monnaie de groupe fongible à un taux de change dynamique qui répondrait aux besoins du groupe au fil du temps. Cela permettrait aux Circles d'agir comme un terrain d'expérimentation pour de nombreuses expériences différentes en matière de réalité (et de moralité) consensuelle, tout en offrant aux utilisateurs individuels la liberté de revenir aux monnaies personnelles si un groupe devient corrompu ou inutile. Les possibilités de nouvelles formes politiques sont nombreuses, mais le potentiel de systèmes de niveau 2 au-dessus du protocole de base est de loin l'aspect le plus spéculatif du projet et reste une question résolument ouverte pour des recherches ultérieures.
 
